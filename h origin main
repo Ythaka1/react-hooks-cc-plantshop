@@ -1,0 +1,41 @@
+[33m9ff421d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m by Hakim
+[33ma71e1c1[m updated canvas config
+[33m952a658[m updated title
+[33m1dd2f49[m update title
+[33md83d209[m update canvas config
+[33m401e6ab[m adds check for fetch post request in createplant
+[33m2bccc15[m add alternate dataset for allplants test
+[33m5407d45[m more indentation fixes
+[33m41d36fa[m fix indentation
+[33mfe3a9e5[m remove fake force fail tests
+[33m54f43bf[m fix order of running test suites
+[33m4e201f3[m update describe blocks to specify deliverable
+[33mdac961c[m fix spacing
+[33m230539c[m set tests into different suites to run 1 at a time
+[33meffc2cb[m add tests for rendering image, name, and price
+[33m375dd9e[m switch test case to consider basePlants length
+[33me5c31d8[m add second test case for adding plant to db and page
+[33m126b2db[m remove unnecessary expect
+[33mc200f93[m fix comment spacing
+[33md976451[m add data-testid to plantcard for test suite
+[33mf7dfa2c[m mock fetch responses to prevent faulty data
+[33m1970dce[m add jest test suite and packages
+[33m6efc38c[m AUTO: update .canvas file
+[33m0df63b5[m AUTO: replace github workflow
+[33me70cc77[m AUTO: update react-scripts version
+[33md26edcb[m update canvas file
+[33m04b124c[m set up fake test
+[33m0a4da99[m update workflow
+[33m40d7549[m update canvas file
+[33m96794d8[m remove canvas file
+[33m86ec1f9[m Move gif to AWS
+[33m4771c9d[m Updated packages to fix chokidar bug
+[33m21cc6a4[m Aribtrary commit
+[33mb5968f6[m Fixed workflow
+[33mdeca6b5[m Fixed workflow
+[33m3ff60aa[m Aribtrary commit
+[33m296d22e[m Added json-server script
+[33md7b1eb2[m Updated demo gif
+[33ma21ab0f[m Updated readme
+[33m656b1f2[m Initial commit
+[33m727089b[m Initialize project using Create React App
